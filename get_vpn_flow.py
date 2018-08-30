@@ -51,4 +51,4 @@ def run(username, password):
 
 
 if __name__ == "__main__":
-    run("shenyunwen520@qq.com", "123456syw")
+    run("username", "password")
