@@ -7,9 +7,9 @@ HEADERS = {
                   "Safari/537.36 "
 }
 # 登录url
-LOGIN_URL = "http://gqt1.cloud/auth/login"
+LOGIN_URL = "https://gqt1.cloud/auth/login"
 # 流量续命地址
-FREE_FLOW_URL = "http://gqt1.cloud/user/checkin"
+FREE_FLOW_URL = "https://gqt1.cloud/user/checkin"
 # session
 SESSION = requests.session()
 
